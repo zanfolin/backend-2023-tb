@@ -69,6 +69,51 @@
       "updated_at": "2023-08-18T13:44:16.341Z",
       "id": 5,
       "usu_updated_at": "2023-08-18T13:44:44.178Z"
+    },
+    {
+      "usu_nome": "Usuário 08:02:19",
+      "usu_email": "nada1@nada.com",
+      "usu_senha": "U123456u!",
+      "usu_nivel": "comum",
+      "usu_celular": "",
+      "usu_cpf": "",
+      "usu_foto": "",
+      "usu_chave": "XPUb1Rm0vB",
+      "usu_emailconfirmado": false,
+      "usu_cadastroativo": false,
+      "created_at": "2023-08-29T11:22:59.900Z",
+      "updated_at": "",
+      "id": 6
+    },
+    {
+      "usu_nome": "Usuário 08:38:52",
+      "usu_email": "nada2@nada.com",
+      "usu_senha": "U123456u!",
+      "usu_nivel": "comum",
+      "usu_celular": "",
+      "usu_cpf": "",
+      "usu_foto": "",
+      "usu_chave": "5Pg8KqZwCs",
+      "usu_emailconfirmado": false,
+      "usu_cadastroativo": false,
+      "created_at": "2023-08-29T11:40:54.505Z",
+      "updated_at": "",
+      "id": 7
+    },
+    {
+      "usu_nome": "Usuário 08:42:48",
+      "usu_email": "nada3@nada.com",
+      "usu_senha": "U123456u!",
+      "usu_nivel": "comum",
+      "usu_celular": "",
+      "usu_cpf": "",
+      "usu_foto": "",
+      "usu_chave": "AphhE44Z8B",
+      "usu_emailconfirmado": false,
+      "usu_cadastroativo": false,
+      "created_at": "2023-08-29T11:42:54.541Z",
+      "updated_at": "",
+      "id": 8
     }
   ],
   "projetos": [
